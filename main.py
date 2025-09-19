@@ -311,7 +311,7 @@ def convert_to_list_of_tuples(string):
 
     #inner and outer dilimiters set
     inner_delimiter = ", "
-    outer_delimiter = ";"
+    outer_delimiter = "; "
 
     #temporary list wich does not contain tupels
     temporary_list = string.split(outer_delimiter)
