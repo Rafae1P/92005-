@@ -1,5 +1,5 @@
 '''This program is an example of what the Te Puia database managment interface could look like. This python file uses
-the sqlite3 library to connect to a mysql database and uses the tabulate library to present tables.
+the sqlite3 library to connect to a sqlite database and uses the tabulate library to present tables.
 By Rafael Percy
 Date 19-09-2025'''
 
